@@ -36,3 +36,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Related Templates
+- [Handoff Checklist: Pre-Release Gate](octoacme-handoff-checklists.md#4-release-manager--pre-release-gate) — verify release readiness before go/no-go
+- [Handoff Checklist: Release → Support](octoacme-handoff-checklists.md#5-release--support--stakeholders-post-deploy) — structured post-deploy handoff to support and stakeholders
+- [Risk Escalation Matrix](octoacme-risk-escalation-matrix.md) — contacts for release-blocking issues and security incidents
+- [Responsibility Map (RACI)](octoacme-responsibility-map.md) — ownership for release phase activities
