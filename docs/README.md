@@ -13,13 +13,17 @@ Quality assurance is embedded throughout execution and release. OctoAcme favors 
 ## Summary of OctoAcme Project Management Processes
 
 - **[Project Management Overview](octoacme-project-management-overview.md)** — High-level introduction to OctoAcme's project management principles, core roles, key artifacts, and the full project lifecycle. Start here for a quick orientation.
-- **[Roles & Personas](octoacme-roles-and-personas.md)** — Detailed definitions of each team role (Developer, Product Manager, Project Manager) including responsibilities, goals, and typical communication patterns.
+- **[Roles & Personas](octoacme-roles-and-personas.md)** — Detailed definitions of each team role (Developer, Product Manager, Project Manager, UX Designer, Business Analyst, Release Manager, Security Champion) including responsibilities, goals, and typical communication patterns.
 - **[Project Initiation](octoacme-project-initiation.md)** — Steps to validate and authorize work, align stakeholders, and produce the minimum deliverables (one-pager, stakeholder list, high-level timeline, risk list) needed to approve a project.
 - **[Project Planning](octoacme-project-planning.md)** — How to turn an approved initiative into an actionable backlog: backlog creation and estimation, Definition of Done, dependency and risk management, and the release milestone map.
 - **[Execution & Tracking](octoacme-execution-and-tracking.md)** — Day-to-day team rhythms, PR and branching workflows, quality and testing standards, reporting metrics, and the blocker escalation ladder.
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)** — Risk register format and lifecycle, stakeholder communication cadence, weekly status and incident templates, and escalation paths.
 - **[Release & Deployment](octoacme-release-and-deployment.md)** — Release types, pre-release checklist, deployment and rollback playbook, and the release notes template.
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** — Retrospective structure and facilitation guidance, action item tracking, and practices for building a continuous improvement culture.
+- **[Responsibility Map (RACI)](octoacme-responsibility-map.md)** — RACI breakdown of who is Responsible, Accountable, Consulted, and Informed for key lifecycle activities across all roles.
+- **[Handoff Checklists](octoacme-handoff-checklists.md)** — Structured handoff checklists for PdM→Delivery, Design→Engineering, Engineering→QA, Pre-Release Gate, and Release→Support.
+- **[Decision Log](octoacme-decision-log.md)** — Lightweight template for capturing key decisions, rationale, and consequences.
+- **[Risk Escalation Matrix](octoacme-risk-escalation-matrix.md)** — Role-based escalation paths and severity definitions for risks, blockers, and security incidents.
 
 ---
 
@@ -35,3 +39,7 @@ Quality assurance is embedded throughout execution and release. OctoAcme favors 
 | [octoacme-risks-and-communication.md](octoacme-risks-and-communication.md) | Risk register, communication cadence, and escalation paths |
 | [octoacme-release-and-deployment.md](octoacme-release-and-deployment.md) | Release process, deployment checklist, and rollback playbook |
 | [octoacme-retrospective-and-continuous-improvement.md](octoacme-retrospective-and-continuous-improvement.md) | Retrospective format and continuous improvement practices |
+| [octoacme-responsibility-map.md](octoacme-responsibility-map.md) | RACI responsibility map for all roles across lifecycle phases |
+| [octoacme-handoff-checklists.md](octoacme-handoff-checklists.md) | Handoff checklists for key role-to-role transitions |
+| [octoacme-decision-log.md](octoacme-decision-log.md) | Decision log template for capturing key decisions and rationale |
+| [octoacme-risk-escalation-matrix.md](octoacme-risk-escalation-matrix.md) | Risk escalation contact matrix by role and severity |

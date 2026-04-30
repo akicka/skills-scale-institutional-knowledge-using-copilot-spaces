@@ -41,3 +41,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## Related Templates
+- [Responsibility Map (RACI)](octoacme-responsibility-map.md) — see who is accountable for each planning activity
+- [Handoff Checklist: PdM → Delivery](octoacme-handoff-checklists.md#1-product-manager--delivery-team-planning-kickoff) — verify readiness before kickoff
+- [Decision Log](octoacme-decision-log.md) — capture key planning decisions and trade-offs

@@ -38,3 +38,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Related Templates
+- [Handoff Checklist: Engineering → QA](octoacme-handoff-checklists.md#3-engineering--qa-pre-qa-handoff) — verify readiness before handing off to QA
+- [Handoff Checklist: Design → Engineering](octoacme-handoff-checklists.md#2-design--engineering-design-to-development) — verify design handoff completeness before sprint start
+- [Responsibility Map (RACI)](octoacme-responsibility-map.md) — clarify ownership across execution activities
+- [Risk Escalation Matrix](octoacme-risk-escalation-matrix.md) — escalation contacts for blockers and incidents
